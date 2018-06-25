@@ -1,0 +1,9 @@
+﻿0a7e57dc-cb9d-438f-8d31-1f407b71bf24-->und\0a7e57dc-cb9d-438f-8d31-1f407b71bf24
+0a7e57dc-cb9d-438f-8d31-1f407b71bf24.0-->Form\ЦентрУведомлений
+5a15b21e-8bc5-4ad7-a571-26070952299d-->und\5a15b21e-8bc5-4ad7-a571-26070952299d
+5a15b21e-8bc5-4ad7-a571-26070952299d.0-->Form\Форма
+copyinfo-->und\copyinfo
+e5564848-51af-4f09-9895-e55cfcd0533f-->und\e5564848-51af-4f09-9895-e55cfcd0533f
+root-->und\root
+version-->und\version
+versions-->und\versions
